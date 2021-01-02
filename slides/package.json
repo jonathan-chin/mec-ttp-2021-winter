@@ -1,0 +1,9 @@
+{
+  "name": "mec-2021-winter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.14.1"
+  }
+}
