@@ -1,8 +1,9 @@
 # Schedule
 
 ## Session 1 - 2021-01-04
-**Topics** preassessment, class norms, git basics  
-**Assignment** Choose Your Own Adventure
+**Topics** preassessment, class norms, git basics
+**Slides** (https://docs.google.com/presentation/d/1S_hBHqsIY1BNufVCB4EhFs6fDOWJUdNy7H3sJGphftY/edit?usp=sharing)[https://docs.google.com/presentation/d/1S_hBHqsIY1BNufVCB4EhFs6fDOWJUdNy7H3sJGphftY/edit?usp=sharing]  
+**Assignment** Choose Your Own Adventure (https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1]
 
 ## Session 2 - 2021-01-05
 **Topics** outlining projects, pseudocode, git workflow, javascript  
