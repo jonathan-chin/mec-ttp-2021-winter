@@ -1,0 +1,26 @@
+digraph g {
+  rankdir="LR";
+  nodesep=.75;
+
+  subgraph cluster_feature_1 {
+      node[style=filled, fillcolor=skyblue]
+      peripheries=0;
+      ei0[style=invis]
+      ei0 -> e0 [style=invis];
+      e0 -> e1 -> e2
+  }
+
+  subgraph cluster_master_branch {
+      node[style=filled, fillcolor=lawngreen]
+      peripheries=0;
+      b3[label="b1"];
+      b1, b2 [shape=point];
+      b0 -> b1 -> b2 [arrowhead=none];
+      b2 -> b3;
+  }
+
+
+
+  b1 -> e0 [constraint=false];
+  e2 -> b3 [constraint=false]; 
+}

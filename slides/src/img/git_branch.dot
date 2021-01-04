@@ -1,0 +1,35 @@
+digraph g {
+  rankdir="LR";
+  nodesep=.75;
+
+  subgraph cluster_edit_2 {
+      node[style=filled, fillcolor=lightsalmon];
+      peripheries=0;
+      ei0, ei1 [style=invis];
+      ei0 -> ei1 -> e0 [style=invis];
+      e0 -> e1 -> e2;
+  }
+  
+  subgraph cluster_edit_1 {
+      node[style=filled, fillcolor=skyblue];
+      peripheries=0;
+      fi0[style=invis];
+      f1, f2, f3 [shape=point];
+      f4[label="f1"];
+      fi0 -> f0 [style=invis];
+      f0 -> f1 -> f2 -> f3 [arrowhead=none];
+      f3 -> f4;
+  }
+
+  subgraph cluster_master_branch {
+      node[style=filled, fillcolor=lawngreen];
+      mi0, mi1, mi2, mi3, mi4 [shape=point];
+      peripheries=0;
+      m0 -> mi0 -> mi1 -> mi2 -> mi3 -> mi4 -> m1 [arrowhead=none];
+  }
+
+  mi0 -> f0 [constraint=false];
+  f1 -> e0 [constraint=false];
+  e2 -> f3 [constraint=false];
+  f4 -> mi4 [constraint=false];
+}
