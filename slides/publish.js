@@ -14,23 +14,18 @@ try {
 }
 
 const file = process.argv[2];
-const title = file.split('.')[0];
+// assume file is in src/YYYY-MM-DD.md
+const title = file.split(/[\.\/]/)[1];
 const id = file_ids[title];
 
 if(id){
     // we have the file id! so append to existing file
-    execSync(`md2gslides ${file} -a ${id} -e -n -s ${style} -t ${title}`,
+    execSync(`md2gslides ${file} -a ${id} -e -n -s ${style} -t ${title} --use-fileio`,
 	     {stdio: 'inherit'});
 }else{
     // don't have a current file id, so create a new file
-    execSync(`md2gslides ${file} -n -s ${style} -t ${title}`,
+    execSync(`md2gslides ${file} -n -s ${style} -t ${title} --use-fileio`,
 	     {stdio: 'inherit'});
 }
 
 console.log('done');
-
-// --style github
-// -a id append to file
-// -n do not launch browser
-// -e erase before appending
-// -t title
