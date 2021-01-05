@@ -7,7 +7,7 @@
 [https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
 
 ## Session 2 - 2021-01-05
-**Topics** git continued, outline projects, javascript part 1
+**Topics** git continued, outline projects, javascript part 1  
 **Slides** [https://docs.google.com/presentation/d/1Pgpt8AwTu-X4qAMIxzvBPfJfyLDDb-iJZRFpCAXArfw/edit?usp=sharing](https://docs.google.com/presentation/d/1Pgpt8AwTu-X4qAMIxzvBPfJfyLDDb-iJZRFpCAXArfw/edit?usp=sharing)  
 **Assignment** Blackjack Game Engine  
 [https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-2](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-2)  
