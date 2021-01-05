@@ -7,8 +7,10 @@
 [https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
 
 ## Session 2 - 2021-01-05
-**Topics** outlining projects, pseudocode, git workflow, javascript  
-**Assignment** card game (war, blackjack)  
+**Topics** git continued, outline projects, javascript part 1
+**Slides** [https://docs.google.com/presentation/d/1Pgpt8AwTu-X4qAMIxzvBPfJfyLDDb-iJZRFpCAXArfw/edit?usp=sharing](https://docs.google.com/presentation/d/1Pgpt8AwTu-X4qAMIxzvBPfJfyLDDb-iJZRFpCAXArfw/edit?usp=sharing)  
+**Assignment** Blackjack Game Engine  
+[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-2](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-2)  
 initial group assignments, ice breaker  
 open requests to switch groups
 
