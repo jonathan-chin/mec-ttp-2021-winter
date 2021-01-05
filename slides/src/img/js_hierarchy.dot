@@ -1,0 +1,36 @@
+digraph G {
+    JS[style=filled, fillcolor=lawngreen];
+
+    subgraph cluster_apps{
+        node[style=filled, fillcolor=khaki];
+        peripheries=0;
+        apps -> mobile;
+        mobile -> Ionic;
+        mobile -> ReactNative;
+        apps -> desktop -> electron;
+    }
+    
+    subgraph cluster_webapps{
+        node[style=filled, fillcolor=skyblue];
+        peripheries=0;
+        webapps[label="web apps"];
+        AngularJS, ReactJS, jQuery, Bootstrap;
+        webapps -> AngularJS;
+        webapps -> ReactJS;
+        webapps -> VueJS;
+        webapps -> jQuery;
+        webapps -> Bootstrap;
+    }
+    
+    subgraph cluster_serverside{
+        node[style=filled, fillcolor=lightsalmon]
+        peripheries=0;
+        serverside -> NodeJS;
+        serverside -> ExpressJS;
+        
+    }
+    
+    JS -> apps;
+    JS -> webapps;
+    JS -> serverside;
+}
