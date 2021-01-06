@@ -15,7 +15,7 @@ initial group assignments, ice breaker
 open requests to switch groups
 
 ## Session 3 - 2021-01-06
-**Topics** HTML, CSS, responsive design
+**Topics** HTML, CSS, responsive design  
 **Slides** [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U)  
 **Assignment** responsive cartoon strip  
 open requests to switch groups
