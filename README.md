@@ -15,14 +15,15 @@ initial group assignments, ice breaker
 open requests to switch groups
 
 ## Session 3 - 2021-01-06
-**Topics** HTML, CSS, responsive design
+**Topics** HTML, CSS  
 **Slides** [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U)  
-**Assignment** responsive cartoon strip  
 open requests to switch groups
 
 ## Session 4 - 2021-01-07
 **Topics** javascript part 2, wiring together HTML, CSS, and javascript, event handling  
-**Assignment** card game UI (blackjack, go fish, yatzee)  
+**Slides** [https://docs.google.com/presentation/d/1H8vU0GRrVMkWwVzptaBn6deUuW342GYuF_NE-eXFkq0/edit?usp=sharing](https://docs.google.com/presentation/d/1H8vU0GRrVMkWwVzptaBn6deUuW342GYuF_NE-eXFkq0/edit?usp=sharing)  
+**Assignment** Responsive Comic  
+[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3)  
 final requests to switch groups
 
 ## Session 5 - 2021-01-08
