@@ -15,11 +15,7 @@ initial group assignments, ice breaker
 open requests to switch groups
 
 ## Session 3 - 2021-01-06
-<<<<<<< HEAD
-**Topics** HTML, CSS, responsive design  
-=======
 **Topics** HTML, CSS  
->>>>>>> 341273bf0c2194233a579e784f59d76b583a8e8e
 **Slides** [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U)  
 open requests to switch groups
 
@@ -33,8 +29,10 @@ final requests to switch groups
 ## Session 5 - 2021-01-08
 **Topics** Wiring it all together  
 **Slides** [https://docs.google.com/presentation/d/135lApQa4dOCElMn2gkqtBGpqoi_fLvsr2mN2uXs0-P0/edit?usp=sharing](https://docs.google.com/presentation/d/135lApQa4dOCElMn2gkqtBGpqoi_fLvsr2mN2uXs0-P0/edit?usp=sharing)
-**Assignment** TBD  
-must generate 3 capstone project ideas
+**Assignment** Connect 4  
+[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4)
+**must generate 3 capstone project ideas**
+[https://github.com/jonathan-chin/mec-ttp-2021-winter-capstone-project](https://github.com/jonathan-chin/mec-ttp-2021-winter-capstone-project)
 
 ## Session 6 - 2021-01-11
 **Topics** React part 2, components  
