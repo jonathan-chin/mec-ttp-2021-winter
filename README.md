@@ -27,7 +27,7 @@ open requests to switch groups
 final requests to switch groups
 
 ## Session 5 - 2021-01-08
-**Topics** react part 1, package management via npm  
+**Topics** Wiring it all together  
 **Assignment** TBD  
 must generate 3 capstone project ideas
 
