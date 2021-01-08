@@ -15,7 +15,11 @@ initial group assignments, ice breaker
 open requests to switch groups
 
 ## Session 3 - 2021-01-06
+<<<<<<< HEAD
+**Topics** HTML, CSS, responsive design  
+=======
 **Topics** HTML, CSS  
+>>>>>>> 341273bf0c2194233a579e784f59d76b583a8e8e
 **Slides** [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U)  
 open requests to switch groups
 
