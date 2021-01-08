@@ -28,10 +28,10 @@ final requests to switch groups
 
 ## Session 5 - 2021-01-08
 **Topics** Wiring it all together  
-**Slides** [https://docs.google.com/presentation/d/135lApQa4dOCElMn2gkqtBGpqoi_fLvsr2mN2uXs0-P0/edit?usp=sharing](https://docs.google.com/presentation/d/135lApQa4dOCElMn2gkqtBGpqoi_fLvsr2mN2uXs0-P0/edit?usp=sharing)
+**Slides** [https://docs.google.com/presentation/d/135lApQa4dOCElMn2gkqtBGpqoi_fLvsr2mN2uXs0-P0/edit?usp=sharing](https://docs.google.com/presentation/d/135lApQa4dOCElMn2gkqtBGpqoi_fLvsr2mN2uXs0-P0/edit?usp=sharing)  
 **Assignment** Connect 4  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4)
-**must generate 3 capstone project ideas**
+[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4)  
+**must generate 3 capstone project ideas**  
 [https://github.com/jonathan-chin/mec-ttp-2021-winter-capstone-project](https://github.com/jonathan-chin/mec-ttp-2021-winter-capstone-project)
 
 ## Session 6 - 2021-01-11
