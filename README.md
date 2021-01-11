@@ -35,8 +35,10 @@ final requests to switch groups
 [https://github.com/jonathan-chin/mec-ttp-2021-winter-capstone-project](https://github.com/jonathan-chin/mec-ttp-2021-winter-capstone-project)
 
 ## Session 6 - 2021-01-11
-**Topics** React part 2, components  
-**Assignment** 
+**Topics** the terminal, npm, react, Material UI, pair programming  
+**Slides** [https://docs.google.com/presentation/d/1sA7PzuLL9UJaAHT4TimPSmXTNc5-HTxfVBlw8T5tHdY/edit?usp=sharing](https://docs.google.com/presentation/d/1sA7PzuLL9UJaAHT4TimPSmXTNc5-HTxfVBlw8T5tHdY/edit?usp=sharing)  
+**Assignment** Positive Projection  
+[]()
 
 ## Session 7 - 2021-01-12
 **Topics** React part 3  
