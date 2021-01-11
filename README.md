@@ -38,7 +38,7 @@ final requests to switch groups
 **Topics** the terminal, npm, react, Material UI, pair programming  
 **Slides** [https://docs.google.com/presentation/d/1sA7PzuLL9UJaAHT4TimPSmXTNc5-HTxfVBlw8T5tHdY/edit?usp=sharing](https://docs.google.com/presentation/d/1sA7PzuLL9UJaAHT4TimPSmXTNc5-HTxfVBlw8T5tHdY/edit?usp=sharing)  
 **Assignment** Positive Projection  
-[]()
+[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md)
 
 ## Session 7 - 2021-01-12
 **Topics** React part 3  
