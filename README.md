@@ -42,6 +42,7 @@ final requests to switch groups
 
 ## Session 7 - 2021-01-12
 **Topics** React part 3  
+**Slides** [https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing](https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)
 **Assignment** 
 
 ## Session 8 - 2021-01-13
