@@ -42,8 +42,10 @@ final requests to switch groups
 
 ## Session 7 - 2021-01-12
 **Topics** react components, state vs props, react router  
-**Slides** [https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing](https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)
-**Assignment** 
+**Slides** [https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing](https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)  
+**Assignment** Custom Components  
+[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md)
+
 
 ## Session 8 - 2021-01-13
 **Topics** Material UI  
