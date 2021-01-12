@@ -41,7 +41,7 @@ final requests to switch groups
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md)
 
 ## Session 7 - 2021-01-12
-**Topics** React part 3  
+**Topics** react components, state vs props, react router  
 **Slides** [https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing](https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)
 **Assignment** 
 
