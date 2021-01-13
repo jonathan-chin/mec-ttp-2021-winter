@@ -41,14 +41,15 @@ final requests to switch groups
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md)
 
 ## Session 7 - 2021-01-12
-**Topics** react components, state vs props, react router  
+**Topics** react components, state vs props  
 **Slides** [https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing](https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)  
 **Assignment** Custom Components  
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md)
 
 
 ## Session 8 - 2021-01-13
-**Topics** Material UI  
+**Topics** advanced React patterns, react router, forms  
+**Slides** [https://docs.google.com/presentation/d/1DcOsZYqQAk3J8Gw0TmPKihIFRv9_fd5qX-Px1EkW4BI/edit?usp=sharing](https://docs.google.com/presentation/d/1DcOsZYqQAk3J8Gw0TmPKihIFRv9_fd5qX-Px1EkW4BI/edit?usp=sharing)  
 **Assignment** 
 
 ## Session 9 - 2021-01-14
