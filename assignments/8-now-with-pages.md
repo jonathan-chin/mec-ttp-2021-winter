@@ -6,7 +6,7 @@ To practice using the `react-router` library within the framing of building a mo
 
 ## Task and requirements
 
-Create a **copy** your previous assignment (7 Custom components) as a separate repo. For each team member on your team, you must create at least 1 page that is reachable by every other page on your app. As before, you can accomplish this by either separating your existing code into multiple pages and/or adding new content.
+Create a **copy** your previous assignment (7 Custom Components) as a separate repo. For each team member on your team, you must create at least 1 page that is reachable by every other page on your app. As before, you can accomplish this by either separating your existing code into multiple pages and/or adding new content.
 
 ## Reference Materials
 
