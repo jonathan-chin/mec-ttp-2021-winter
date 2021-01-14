@@ -29,38 +29,34 @@ class Controlled extends React.Component{
     
     submitForm(event){
 	event.preventDefault();
+
+	// create a copy of state variables so we can build the error messages
+	let state_values = this.state;
 	
 	// do basic error checking
-	const first_name_error = validate_first_name(this.state.first_name.value);
-	if(first_name_error){
-	    this.setState({
-		first_name: {
-		    value: this.state.first_name.value,
-		    error: first_name_error
-		}
-	    });
-	}
+	// if error is an empty string '', then that means there's no error
+	
+	state_values.first_name.error = validate_first_name(this.state.first_name.value);
+	state_values.last_name.error =  validate_last_name(this.state.last_name.value);
 
-	const last_name_error = validate_last_name(this.state.last_name.value);
 
-	if(last_name_error){
-	    this.setState({
-		last_name: {
-		    value: this.state.last_name.value,
-		    error: last_name_error
-		}
-	    });
-	}
-
-	if(first_name_error || last_name_error){
+	// all error statuses should be updated here
+	// so we can set it
+	this.setState(state_values);
+	
+	if(state_values.first_name.error !== '' ||
+	   state_values.last_name.error !== ''){
 	    // has at least 1 error
 	    // so quit
+	    
 	    return;
 	}
 	
 	// all error checks have been passed and have been found valid
 	// so proceed!
 
+
+	
 	alert('submission');
     }
 
