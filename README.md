@@ -48,13 +48,14 @@ final requests to switch groups
 
 
 ## Session 8 - 2021-01-13
-**Topics** advanced React patterns, react router, forms  
+**Topics** advanced React patterns, react router  
 **Slides** [https://docs.google.com/presentation/d/1DcOsZYqQAk3J8Gw0TmPKihIFRv9_fd5qX-Px1EkW4BI/edit?usp=sharing](https://docs.google.com/presentation/d/1DcOsZYqQAk3J8Gw0TmPKihIFRv9_fd5qX-Px1EkW4BI/edit?usp=sharing)  
 **Assignment** Now with Pages!  
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md)
 
 ## Session 9 - 2021-01-14
-**Topics** forms, input sanitization, error checking, external apis  
+**Topics** forms and form validation  
+**Slides** [https://docs.google.com/presentation/d/1xLtAB-R_VOPS3iC-lbaLWt-51e1FdK_kqrjxerDMsCw/edit?usp=sharing](https://docs.google.com/presentation/d/1xLtAB-R_VOPS3iC-lbaLWt-51e1FdK_kqrjxerDMsCw/edit?usp=sharing)  
 **Assignment** 
 
 ## Session 10 - 2021-01-15
