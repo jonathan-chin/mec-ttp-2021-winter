@@ -56,7 +56,8 @@ final requests to switch groups
 ## Session 9 - 2021-01-14
 **Topics** forms and form validation  
 **Slides** [https://docs.google.com/presentation/d/1xLtAB-R_VOPS3iC-lbaLWt-51e1FdK_kqrjxerDMsCw/edit?usp=sharing](https://docs.google.com/presentation/d/1xLtAB-R_VOPS3iC-lbaLWt-51e1FdK_kqrjxerDMsCw/edit?usp=sharing)  
-**Assignment** 
+**Assignment** Now with Validated Forms  
+[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md)
 
 ## Session 10 - 2021-01-15
 **Topics** expressjs, sql, sequelize  
