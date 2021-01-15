@@ -62,7 +62,9 @@ final requests to switch groups
 ## Session 10 - 2021-01-15
 **Topics** APIs, SDKs, and Async Calls  
 **Slides** [https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing](https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing)  
-**Assignment** 
+**Assignment** En Español, Capstone Outline  
+[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md)  
+[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md)
 
 ## Session 10.5 - 2021-01-18
 national holiday, no official class
