@@ -70,8 +70,8 @@ final requests to switch groups
 national holiday, no official class
 
 ## Session 11 - 2021-01-19
-**Topics** nodejs  
-**Assignment** 
+**Topics** Deploying React Apps, Backend Dev: NodeJS, Heroku, Express  
+**Slides** [https://docs.google.com/presentation/d/1antRFxqY3jHA18gKosGdgmNOii8z7Ncc9_9ffIBiPj0/edit?usp=sharing](https://docs.google.com/presentation/d/1antRFxqY3jHA18gKosGdgmNOii8z7Ncc9_9ffIBiPj0/edit?usp=sharing)
 
 ## Session 12 - 2021-01-20
 **Topics** extra buffer day, maybe redux?  
