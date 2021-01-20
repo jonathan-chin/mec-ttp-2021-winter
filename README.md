@@ -74,8 +74,8 @@ national holiday, no official class
 **Slides** [https://docs.google.com/presentation/d/1antRFxqY3jHA18gKosGdgmNOii8z7Ncc9_9ffIBiPj0/edit?usp=sharing](https://docs.google.com/presentation/d/1antRFxqY3jHA18gKosGdgmNOii8z7Ncc9_9ffIBiPj0/edit?usp=sharing)
 
 ## Session 12 - 2021-01-20
-**Topics** extra buffer day, maybe redux?  
-**Assignment** 
+**Topics** Databases  
+**Slides** [https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing](https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing)
 
 ## Sessions 13 through 17 - 2021-01-21 through 2021-01-27
 **Topics** Capstone Project
